@@ -126,5 +126,14 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+    "media": [
+  {
+      "type": "setup",
+      "caption": "Graung's Guide to Golarion: Ancestries of Iblydos",
+      "thumbnail": "modules/graungs-guide-to-golarion-ancestries-of-iblydos/art/Preview.webp"
+}],
+  "url": "https://github.com/AyeSpydie/BewareOFSwans",
+  "manifest": "https://raw.githubusercontent.com/AyeSpydie/BewareOfSwans/refs/heads/main/graungs-guide-to-golarion-ancestries-of-iblydos/module.json",
+  "download": "https://github.com/AyeSpydie/BewareOfSwans/archive/refs/heads/main.zip"
 }
