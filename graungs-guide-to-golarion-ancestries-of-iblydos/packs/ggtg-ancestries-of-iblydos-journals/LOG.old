@@ -1,0 +1,21 @@
+2025/05/23-03:48:22.748084 7f17f58abb38 Recovering log #167
+2025/05/23-03:48:22.809663 7f17f58abb38 Delete type=0 #167
+2025/05/23-03:48:22.812412 7f17f58abb38 Delete type=3 #166
+2025/05/23-04:27:56.558292 7f155db21b38 Level-0 table #171: started
+2025/05/23-04:27:56.559683 7f155db21b38 Level-0 table #171: 0 bytes OK
+2025/05/23-04:27:56.569062 7f155db21b38 Delete type=0 #169
+2025/05/23-04:27:56.595879 7f155db21b38 Manual compaction at level-0 from '!folders!Zwyc7f6nsC8b7CK1' @ 72057594037927935 : 1 .. '!journal.pages!xtr2BvuK2wTU6IOi.a5fdMQ6N6sDuAYkt' @ 0 : 0; will stop at '!journal.pages!xtr2BvuK2wTU6IOi.a5fdMQ6N6sDuAYkt' @ 115 : 1
+2025/05/23-04:27:56.596032 7f155db21b38 Compacting 1@0 + 0@1 files
+2025/05/23-04:27:56.607440 7f155db21b38 Generated table #172@0: 6 keys, 29926 bytes
+2025/05/23-04:27:56.607654 7f155db21b38 Compacted 1@0 + 0@1 files => 29926 bytes
+2025/05/23-04:27:56.615839 7f155db21b38 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/23-04:27:56.619291 7f155db21b38 Delete type=2 #164
+2025/05/23-04:27:56.621838 7f155db21b38 Manual compaction at level-0 from '!journal.pages!xtr2BvuK2wTU6IOi.a5fdMQ6N6sDuAYkt' @ 115 : 1 .. '!journal.pages!xtr2BvuK2wTU6IOi.a5fdMQ6N6sDuAYkt' @ 0 : 0; will stop at (end)
+2025/05/23-04:27:56.622332 7f155db21b38 Manual compaction at level-1 from '!folders!Zwyc7f6nsC8b7CK1' @ 72057594037927935 : 1 .. '!journal.pages!xtr2BvuK2wTU6IOi.a5fdMQ6N6sDuAYkt' @ 0 : 0; will stop at '!journal.pages!xtr2BvuK2wTU6IOi.a5fdMQ6N6sDuAYkt' @ 157 : 1
+2025/05/23-04:27:56.622608 7f155db21b38 Compacting 1@1 + 1@2 files
+2025/05/23-04:27:56.641460 7f155db21b38 Generated table #173@1: 10 keys, 31148 bytes
+2025/05/23-04:27:56.641617 7f155db21b38 Compacted 1@1 + 1@2 files => 31148 bytes
+2025/05/23-04:27:56.651596 7f155db21b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/23-04:27:56.654895 7f155db21b38 Delete type=2 #172
+2025/05/23-04:27:56.656460 7f155db21b38 Delete type=2 #52
+2025/05/23-04:27:56.701956 7f155db21b38 Manual compaction at level-1 from '!journal.pages!xtr2BvuK2wTU6IOi.a5fdMQ6N6sDuAYkt' @ 157 : 1 .. '!journal.pages!xtr2BvuK2wTU6IOi.a5fdMQ6N6sDuAYkt' @ 0 : 0; will stop at (end)
