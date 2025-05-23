@@ -1,8 +1,8 @@
 {
   "id": "graungs-guide-to-golarion-ancestries-of-iblydos",
   "title": "Graung's Guide to Golarion: Ancestries of Iblydos",
-  "description": "Graung's Guide to Golarion: Ancestries of Iblydos adds dozens of new ancestry feats and new heritages for Automatons, Catfolk, Centaurs, Humans, Leshies, Lizardfolk, Minotaurs, Orcs and Brachyurans (from Graung's Guide to Golarion: Brachyuran Crabfolk). It also includes three new ancestries—Cyclopes with their future sight, Harpies who can charm and captivate their foes, and Satyrs who are always the life of the party, as well as the Faun versatile heritage!",
-  "version": "0.0.2",
+  "description": "Graung's Guide to Golarion: Ancestries of Iblydos adds dozens of new ancestry feats and new heritages for Automatons, Catfolk, Centaurs, Humans, Leshies, Lizardfolk, Minotaurs, Orcs and Brachyurans (from Graung's Guide to Golarion: Brachyuran Crabfolk). It also includes three new ancestries—Cyclopes with their future sight, Harpies who can charm and captivate their foes, and Satyrs who are always the life of the party, as well as the Faun versatile heritage! Designed to work with Feats+ and Graung's Guide to Golarion: Brachyuran Crabfolk.",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
