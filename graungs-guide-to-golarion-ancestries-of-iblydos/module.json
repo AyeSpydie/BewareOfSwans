@@ -1,11 +1,11 @@
 {
   "id": "graungs-guide-to-golarion-ancestries-of-iblydos",
   "title": "Graung's Guide to Golarion: Ancestries of Iblydos",
-  "description": "Graung's Guide to Golarion: Ancestries of Iblydos adds dozens of new ancestry feats and new heritages for Automatons, Catfolk, Centaurs, Humans, Leshies, Lizardfolk, Minotaurs, Orcs and Brachyurans (from Graung's Guide to Golarion: Brachyuran Crabfolk). It also includes three new ancestries—Cyclopes with their future sight, Harpies who can charm and captivate their foes, and Satyrs who are always the life of the party, as well as the Faun versatile heritage! Designed to work with Feats+ and Graung's Guide to Golarion: Brachyuran Crabfolk.",
-  "version": "1.0.1",
+  "description": "<p>Graung's Guide to Golarion: Ancestries of Iblydos adds dozens of new ancestry feats and new heritages for Automatons, Catfolk, Centaurs, Humans, Leshies, Lizardfolk, Minotaurs, Orcs and Brachyurans (from Graung's Guide to Golarion: Brachyuran Crabfolk). It also includes three new ancestries—Cyclopes with their future sight, Harpies who can charm and captivate their foes, and Satyrs who are always the life of the party, as well as the Faun versatile heritage! Designed to work with Feats+ and Graung's Guide to Golarion: Brachyuran Crabfolk.</p>",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "12",
-    "verified": "13"
+    "verified": "14"
   },
   "authors": [
     {
@@ -26,7 +26,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "ggtg-ancestries-of-iblydos-journals",
@@ -37,7 +38,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -121,19 +123,27 @@
         "compatibility": {}
       },
       {
-        "id": "pf2e-feats-plus",
+        "id": "pf2e-team-plus-feats",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "infinite-conditions",
         "type": "module",
         "compatibility": {}
       }
     ]
   },
-    "media": [
-  {
+  "media": [
+    {
       "type": "setup",
       "caption": "Graung's Guide to Golarion: Ancestries of Iblydos",
-      "thumbnail": "modules/graungs-guide-to-golarion-ancestries-of-iblydos/art/Preview.webp"
-}],
+      "thumbnail": "modules/graungs-guide-to-golarion-ancestries-of-iblydos/art/Preview.webp",
+      "loop": false,
+      "flags": {}
+    }
+  ],
   "url": "https://github.com/AyeSpydie/BewareOFSwans",
-  "manifest": "https://raw.githubusercontent.com/AyeSpydie/BewareOfSwans/refs/heads/main/graungs-guide-to-golarion-ancestries-of-iblydos/module.json",
-  "download": "https://github.com/AyeSpydie/BewareOfSwans/archive/refs/heads/main.zip"
+  "manifest": "https://drive.google.com/uc?export=download&id=1HWcduZ5nRgtI7tSy5XP65_5hRrWmUtT6",
+  "download": "https://drive.google.com/uc?export=download&id=1-mGxTl0gEfd0W0_HjKU4UaKn7MfC6Dzg"
 }
